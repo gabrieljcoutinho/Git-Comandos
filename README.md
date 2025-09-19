@@ -22,7 +22,7 @@
  - 6-git branch -M main
 
 ## "Link" do repositório --> Code --> https:
- - 7-ir no repositorio e colocae o comando git remote add origin "nome dp https, colocar tudo" sem aspas
+ - 7-ir no repositorio e colocar o comando git remote add origin "nome dp https, colocar tudo" sem aspas
 
 ## Atualiza o repositório
  - 8-git push -u origin main
