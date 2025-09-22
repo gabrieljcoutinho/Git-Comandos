@@ -3,41 +3,41 @@
 
  - 0.1-crie o repositorio no github
 
- - 1-git bash
+ - 1-**git bash**
 
 ## Inicializar repositório
  - 2-git init
 
 ## Arquivos adicionados
- - 3-git status
+ - 3-**git status**
 
 ## Adicionar arquivos
 
- - 4-git add .
+ - 4-**git add .**git add .
 
 ## Commitar projeto pela primera vez no repositório
- - 5-git commit -m "nome do commit" tem que por dentro das aspas dupla o texto
+ - 5-**git commit -m "nome do commit"** tem que por dentro das aspas dupla o texto
 
 ## Trocar para a branch MAIN
- - 6-git branch -M main
+ - 6-**git branch -M main**
 
 ## "Link" do repositório --> Code --> https:
- - 7-ir no repositorio e colocar o comando git remote add origin "nome dp https, colocar tudo" sem aspas
+ - 7-ir no repositorio e colocar o comando git remote add origin **"nome do https"**, colocar tudo sem aspas
 
 ## Atualiza o repositório
- - 8-git push -u origin main
+ - 8-**git push -u origin main**
 
 ## Alterações feitas no projeto após ter colcoado no github
- - 9- alterações fietas no projeto: git push
+ - 9- alterações fietas no projeto: **git push**
 
 ## Caso apareça um aviso amarelo no terminal
- - 10 - Erro amarelo terminal : git push -f origin main
+ - 10 - Erro amarelo terminal : **git push -f origin main**
 
 ## Ultimos Commits feitos
  - 11 - git log
 
  ## Lista simplificada dos ultimos commits feitos
- - 12 - commits recentes mais claros: git log --oneline
+ - 12 - commits recentes mais claros: **git log --oneline**
 
 ##  Alterações feitas
  - 13 - Para ver o que foi alterado: git log -p
@@ -48,16 +48,16 @@
 
 ## Remover arquivo
 
- - 16  git rm NOMEDOARQUIVO.estensaodoarquivo
+ - 16  **git rm NOMEDOARQUIVO.estensaodoarquivo**
 
 
 ## Remover uma pasta
- - 17- remover uma pasta: git rm -r nome_da_pasta
+ - 17- remover uma pasta: **git rm -r nome_da_pasta**
 
 
 ## Clonar projetos
-- 18 - git clone https:projetoEscolhido
+- 18 - git clone https: **projetoEscolhido**
 
 
 ## mostra quem alterou cada linha de um arquivo
-- 19 -git blame {arquivo}
+- 19 -**git blame {arquivo}**
