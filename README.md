@@ -3,32 +3,32 @@
 
  - 0.1-crie o repositorio no github
 
- - 1-**git bash**
+ - 1 - **git bash**
 
 ## Inicializar repositório
- - 2-git init
+ - 2 - **git init**
 
 ## Arquivos adicionados
- - 3-**git status**
+ - 3 - **git status**
 
 ## Adicionar arquivos
 
- - 4-**git add .**git add .
+ - 4 - **git add .**git add .
 
 ## Commitar projeto pela primera vez no repositório
- - 5-**git commit -m "nome do commit"** tem que por dentro das aspas dupla o texto
+ - 5 - **git commit -m "nome do commit"** tem que por dentro das aspas dupla o texto
 
 ## Trocar para a branch MAIN
- - 6-**git branch -M main**
+ - 6 - **git branch -M main**
 
 ## "Link" do repositório --> Code --> https:
- - 7-ir no repositorio e colocar o comando git remote add origin **"nome do https"**, colocar tudo sem aspas
+ - 7 - ir no repositorio e colocar o comando git remote add origin **"nome do https"**, colocar tudo sem aspas
 
 ## Atualiza o repositório
- - 8-**git push -u origin main**
+ - 8 - **git push -u origin main**
 
 ## Alterações feitas no projeto após ter colcoado no github
- - 9- alterações fietas no projeto: **git push**
+ - 9 - alterações fietas no projeto: **git push**
 
 ## Caso apareça um aviso amarelo no terminal
  - 10 - Erro amarelo terminal : **git push -f origin main**
