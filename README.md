@@ -27,6 +27,9 @@
 ## Atualiza o repositório
  - 8 - **git push -u origin main**
 
+ - ## Puxar modificações direto do git hub
+ - 8.1 **git pull**
+
 ## Alterações feitas no projeto após ter colcoado no github
  - 9 - alterações fietas no projeto: **git push**
 
